@@ -1,14 +1,14 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/MamvotaTake/MamvotaTake/master/name.svg" alt="Hi 👋, I'm Mamvota Takesure" />
 </h1>
-<h3 align="left">A passionate Developer, Entrepreneur, and Mentor!!</h3>
+<h3 align="left">A passionate Developer, Business Developer, Entrepreneur, and Mentor!!</h3>
 <div align="left">
   <li>🌱 I’m currently learning React Native</li>
   <li>👯 I’m looking to collaborate on open source</li>
   <li>💬 Ask me about ... Anything</li>
   <li>😄 Pronouns: He/His</li>
   <li>⚡ Fun fact: I speak 3 languages ( English, Shona, Russian)</li>
-  <li>Talk with me, I am awesome:</li>
+  <li> Talk with me, I am awesome:</li>
 </div>
 
 <br>
