@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/MamvotaTake/master/name.svg" alt="Mamvota Takesure" />
+</h1>
 <h1 align="left">Hi 👋, I'm Mamvota Takesure</h1>
 <h3 align="left">A passionate Developer, Entrepreneur, and Mentor!!</h3>
 <div align="left">
