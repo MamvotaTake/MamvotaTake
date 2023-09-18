@@ -9,7 +9,11 @@
   <li>💬 Ask me about ... Anything</li>
   <li>😄 Pronouns: He/His</li>
   <li>⚡ Fun fact: I speak 3 languages ( English, Shona, Russian)</li>
-  <li> Talk with me, I am awesome:</li>
+  <li> Talk with me, I am awesome:</li><br />
+
+<br/>
+
+  **`I love my parents`**
 </div><br />
 
 <br/>
