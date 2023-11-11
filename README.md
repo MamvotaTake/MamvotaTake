@@ -8,7 +8,7 @@
   <li>👯 I’m looking to collaborate on open source</li>
   <li>💬 Ask me about ... Anything</li>
   <li>😄 Pronouns: He/His</li>
-  <li>⚡ Fun fact: I speak 3 languages ( English, Shona, Russian)</li>
+  <li>⚡ Fun fact: I speak 4 languages ( English, Shona, Russian and little German)</li>
   <li> Talk with me, I am awesome:</li><br />
 
 <br/>
